@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php:*)",
+      "Bash(mysql:*)",
+      "Bash(del \"C:\\Users\\corri\\Documents\\prospects-api\\database\\migrations\\2025_09_08_075928_create_branches_table.php\")",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
